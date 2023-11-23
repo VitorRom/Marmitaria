@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f39bbb7.css",
-    "main.js": "/static/js/main.28859ab6.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/index.html",
-    "main.1f39bbb7.css.map": "/static/css/main.1f39bbb7.css.map",
-    "main.28859ab6.js.map": "/static/js/main.28859ab6.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/MarmitariaDada/static/css/main.1f39bbb7.css",
+    "main.js": "/MarmitariaDada/static/js/main.745f0b81.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/MarmitariaDada/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/MarmitariaDada/index.html",
+    "main.1f39bbb7.css.map": "/MarmitariaDada/static/css/main.1f39bbb7.css.map",
+    "main.745f0b81.js.map": "/MarmitariaDada/static/js/main.745f0b81.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/MarmitariaDada/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f39bbb7.css",
-    "static/js/main.28859ab6.js"
+    "static/js/main.745f0b81.js"
   ]
 }
