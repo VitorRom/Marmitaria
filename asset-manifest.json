@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MarmitariaDada/static/css/main.17632a15.css",
+    "main.css": "/MarmitariaDada/static/css/main.340493fb.css",
     "main.js": "/MarmitariaDada/static/js/main.45c9e24e.js",
     "static/js/787.c4e7f8f9.chunk.js": "/MarmitariaDada/static/js/787.c4e7f8f9.chunk.js",
     "index.html": "/MarmitariaDada/index.html",
-    "main.17632a15.css.map": "/MarmitariaDada/static/css/main.17632a15.css.map",
+    "main.340493fb.css.map": "/MarmitariaDada/static/css/main.340493fb.css.map",
     "main.45c9e24e.js.map": "/MarmitariaDada/static/js/main.45c9e24e.js.map",
     "787.c4e7f8f9.chunk.js.map": "/MarmitariaDada/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17632a15.css",
+    "static/css/main.340493fb.css",
     "static/js/main.45c9e24e.js"
   ]
 }
